@@ -1,1 +1,1 @@
-# 8 reqemli ededin ilk ver son heddlerini silib, 6 reqemli eded yaratmaq
+# 8 reqemli ededin ilk ve son hedlerini silib, 6 reqemli eded yaratmaq
